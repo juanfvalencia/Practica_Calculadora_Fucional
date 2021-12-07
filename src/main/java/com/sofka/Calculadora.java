@@ -23,9 +23,9 @@ public class Calculadora {
     };
 
     public static void main(String[] args) {
-        System.out.println(sumar.applyAsInt(50,90));
-        System.out.println(restar.applyAsInt(30,25));
-        System.out.println(multiplicar.applyAsInt(20,2));
-        System.out.println(dividir.applyAsInt(60,5));
+        System.out.println(sumar.applyAsInt(120,30));
+        System.out.println(restar.applyAsInt(38,18));
+        System.out.println(multiplicar.applyAsInt(30,3));
+        System.out.println(dividir.applyAsInt(50,2));
     }
 }
